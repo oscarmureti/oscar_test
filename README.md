@@ -11,5 +11,5 @@ Make sure your device runs on android 5.0 and above
 
 
 # Link to download the application
-Make sure your device runs on android 5.0 and above
+https://drive.google.com/file/d/1jHebfCeHr_co80sI1flAKV7ydm3hVeDE/view?usp=sharing
 
