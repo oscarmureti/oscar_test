@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "79883012328",
+    "firebase_url": "https://oscarjean-a7806.firebaseio.com",
+    "project_id": "oscarjean-a7806",
+    "storage_bucket": "oscarjean-a7806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79883012328:android:760892a4293e91d7",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79883012328-2gtlsvtlfed8c47k1p17m92jgo0rd0ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram",
+            "certificate_hash": "3277998c023cc0025c29a593a63b2288e6d49039"
+          }
+        },
+        {
+          "client_id": "79883012328-rn0o7avshld5eejr9jj9kf8nj56gutpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQC4_7HYO23A0vtz1gHyq17Bfwfm6PyUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79883012328-rn0o7avshld5eejr9jj9kf8nj56gutpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79883012328:android:297edeecf81888b095a15d",
+        "android_client_info": {
+          "package_name": "com.example.interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79883012328-rn0o7avshld5eejr9jj9kf8nj56gutpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQC4_7HYO23A0vtz1gHyq17Bfwfm6PyUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79883012328-rn0o7avshld5eejr9jj9kf8nj56gutpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79883012328:android:168ebe46c950373a95a15d",
+        "android_client_info": {
+          "package_name": "com.example.oscar_interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79883012328-rn0o7avshld5eejr9jj9kf8nj56gutpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQC4_7HYO23A0vtz1gHyq17Bfwfm6PyUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79883012328-rn0o7avshld5eejr9jj9kf8nj56gutpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
